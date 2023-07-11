@@ -1,12 +1,11 @@
 <h1 align="center">Olá ✨
 
-<p align="right"> <img align="right" height="315,2em" width="344em" alt="MarcellaMacedo" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM284aHR5YjFpd2treHg1czl6a25haDdteHdheW5hZ3RwYmRtMXI3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eljCVpMrhepUSgZaVP/giphy-downsized-large.gif"> </p> 
-
+<p align="right"> <img align="right" height="315,2em" width="344em" alt="MarcellaMacedo" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM284aHR5YjFpd2treHg1czl6a25haDdteHdheW5hZ3RwYmRtMXI3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eljCVpMrhepUSgZaVP/giphy-downsized-large.gif"> </p>
 
 <h3 align="left"> Sobre:</h3> 
 <p align="left">
-   
-   - 👷‍♀️ Engenheira Civil, me formando em Marketing Digital e Análise de Dados
+  Me chamo Marcella Macedo, sou formada em Engenharia Civil 
+</p> e atualmente estou cursando Marketing Digital e Análise de Dados.      
    
    - 💻 Experiência: [LinkedIn](https://www.linkedin.com/in/marcellamacedo04/)
      
