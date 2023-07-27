@@ -10,8 +10,7 @@
      
    - 🌱 Estudando: **Data Science, GCP, Python, SQL**
 
-   - 👩 Projetos disponíveis em: [BootCamp SoulCode](https://github.com/marcellamj/soulcode-martech)
-   - [Python com IA](https://github.com/marcellamj/Python_IA)
+   - 👩 Projetos disponíveis em: [BootCamp SoulCode](https://github.com/marcellamj/soulcode-martech) / [Python com IA](https://github.com/marcellamj/Python_IA)
 
    - 💬 Me pergunte sobre: **Excel, Power BI, Análise de Dados**
 
