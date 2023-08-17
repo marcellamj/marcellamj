@@ -4,7 +4,8 @@
 
 <h3 align="left">
 <p align="left">
-  Me chamo Marcella Macedo, sou Engenheira Civil e estou cursando Análise de Dados pela SoulCode.     
+  Me chamo Marcella Macedo, sou Engenheira Civil e estou cursando Marketing Digital.
+  Me formei recentemente como Analista de Dados pela SoulCode Academy e já trabalho na área há 4 anos.
    
    - 💻 Experiência: [LinkedIn](https://www.linkedin.com/in/marcellamacedo04/)
      
